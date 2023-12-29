@@ -1,6 +1,6 @@
 {
     "metadata": {
-        "index": "/pt-br/readme.md",
+        "index": "/docs/readme.md",
         "primaryColor": "#a7ccff",
         "darkPrimaryColor": "#ddf4ff",
         "title": "md.proj.pw",
@@ -12,7 +12,7 @@
     },
     "contents": [
         {
-            "title": "Introduction",
+            "title": "Introdução",
             "href": "/docs/readme.md"
         }
     ]
