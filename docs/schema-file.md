@@ -6,7 +6,7 @@ O arquivo `schema.json` define como seu repositório funcionará. Ele deve estar
 
 Os campos não tem sensibilidade de maiúsculas ou minúsculas, ou seja, `Title` é equivalente à `title` ou `TITLE`.
 
-```jsonc
+```json
 {
     "metadata": {
 
