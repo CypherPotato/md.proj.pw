@@ -14,6 +14,10 @@
         {
             "title": "Introdução",
             "href": "/docs/readme.md"
+        },
+        {
+            "title": "Arquivo schema.json",
+            "href": "/docs/schema-file.md"
         }
     ]
 }
