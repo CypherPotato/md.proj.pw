@@ -1,0 +1,19 @@
+{
+    "metadata": {
+        "index": "/docs/readme.md",
+        "primaryColor": "#a7ccff",
+        "darkPrimaryColor": "#ddf4ff",
+        "title": "md.proj.pw",
+        "description": "Documentation for the md.proj.pw website.",
+        "branches": [
+            "pt-br"
+        ],
+        "theme": "github"
+    },
+    "contents": [
+        {
+            "title": "Introduction",
+            "href": "/docs/readme.md"
+        }
+    ]
+}
